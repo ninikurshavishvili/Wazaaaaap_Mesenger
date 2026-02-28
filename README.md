@@ -5,7 +5,6 @@
 Wazaaaaap is a dynamic iOS application developed using **SwiftUI**, following the **MVVM architectural pattern**. The app aims to provide users with a simple and fast chat experience through registration and authorization systems, featuring an interactive design and user-friendly functionality.
 
 ---
-
 ## Key Features
 
 ### **Authorization (LoginView)**
